@@ -2,7 +2,7 @@
 
 **Ingeniero de Software Embebido | Guerra Electrónica (EW)**
 
-Ingeniero de Telecomunicación (UPM) especializado en sistemas de misión crítica. Actualmente desarrollo el sistema **SCI** (Software de Control de Interfaces) para el helicóptero **NH90**. Este sistema actúa como el "cerebro táctico", coordinando los subsistemas de defensa (Chaff/Flare, RWR, DIRCM, etc.) y la integración de datos.
+Ingeniero de Telecomunicaciones (UPM) especializado en sistemas de misión crítica. Actualmente desarrollo el sistema **SCI** (Software de Control de Interfaces) para el helicóptero **NH90**. Este sistema actúa como el "cerebro táctico", coordinando los subsistemas de defensa (Chaff/Flare, RWR, DIRCM, etc.) y la integración de datos.
 
 Mi enfoque combina la rigurosidad de la ingeniería aeroespacial con la eficiencia de la automatización moderna.
 
